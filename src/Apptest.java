@@ -1,6 +1,6 @@
 /**
  *
- * @author fayimora
+ * @author Fayimora
  */
 import javax.swing.*;
 import java.awt.*;
