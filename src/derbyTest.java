@@ -1,3 +1,7 @@
+/**
+ * @author Fayimora Femi-Balogun
+ */
+
 import java.sql.*;
 public class derbyTest
 {
