@@ -8,11 +8,11 @@ public class dbtesterQmul{
     public static void main(String[] args) {
     System.out.println("MySQL Connect Example.");
     Connection conn = null;
-    String url = "jdbc:mysql://dbprojects.eecs.qmul.ac.uk/";
-    String dbName = "fbfb3";
+    String url = "jdbc:mysql:// host goes here/";
+    String dbName = "";
     String driver = "com.mysql.jdbc.Driver";
-    String userName = "fbfb3"; 
-    String password = "RPbqkgmSq2VRX";
+    String userName = ""; 
+    String password = "";
     try
     {
       //Load the database driver
