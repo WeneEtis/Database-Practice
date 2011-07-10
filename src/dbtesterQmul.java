@@ -14,10 +14,6 @@ public class dbtesterQmul{
     String userName = "fayimoracom2"; 
     String password = "fayimora100%";
     
-//    $mysql_host = "mysql8.000webhost.com";
-//$mysql_database = "a6088045_java";
-//$mysql_user = "a6088045_fayi";
-//$mysql_password = "emperor1";
     
     
     try
