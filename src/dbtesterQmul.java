@@ -8,6 +8,7 @@ public class dbtesterQmul{
     public static void main(String[] args) {
     System.out.println("MySQL Connect Example.");
     Connection conn = null;
+<<<<<<< HEAD
     String url = "jdbc:mysql://fayimoracom2.ipagemysql.com/";
     String dbName = "mywebsite1";
     String driver = "com.mysql.jdbc.Driver";
@@ -16,6 +17,13 @@ public class dbtesterQmul{
     
     
     
+=======
+    String url = "jdbc:mysql:// host goes here/";
+    String dbName = "";
+    String driver = "com.mysql.jdbc.Driver";
+    String userName = ""; 
+    String password = "";
+>>>>>>> a37de026338ec760c8f2fad54c1474c9a7db2a98
     try
     {
       //Load the database driver
