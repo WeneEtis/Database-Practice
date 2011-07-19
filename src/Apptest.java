@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2005-2010 Substance Fayimora Femi-Balogun. All Rights Reserved.
+ * Copyright (c) 2005-2010 Substance Fayimora Femi-Balogun and EtisWene. All Rights Reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
